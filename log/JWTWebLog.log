@@ -1,0 +1,310 @@
+2022-07-01 13:58:30.694 [main] INFO  21724 com.kuso.JwtWebApplication:55 - Starting JwtWebApplication using Java 1.8.0_202 on KUSOYALO with PID 21724 (C:\eclipseWorkspace\JWTWeb\bin\main started by kusoy in C:\eclipseWorkspace\JWTWeb)
+2022-07-01 13:58:30.703 [main] INFO  21724 com.kuso.JwtWebApplication:640 - No active profile set, falling back to 1 default profile: "default"
+2022-07-01 13:58:31.411 [main] INFO  21724 o.s.d.r.c.RepositoryConfigurationDelegate:132 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-01 13:58:31.431 [main] INFO  21724 o.s.d.r.c.RepositoryConfigurationDelegate:201 - Finished Spring Data repository scanning in 5 ms. Found 0 JPA repository interfaces.
+2022-07-01 13:58:31.969 [main] INFO  21724 o.s.b.w.e.tomcat.TomcatWebServer:108 - Tomcat initialized with port(s): 8080 (http)
+2022-07-01 13:58:31.983 [main] INFO  21724 o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2022-07-01 13:58:31.983 [main] INFO  21724 o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-07-01 13:58:32.099 [main] INFO  21724 o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2022-07-01 13:58:32.100 [main] INFO  21724 o.s.b.w.s.c.ServletWebServerApplicationContext:290 - Root WebApplicationContext: initialization completed in 1328 ms
+2022-07-01 13:58:32.310 [main] INFO  21724 com.zaxxer.hikari.HikariDataSource:110 - HikariPool-1 - Starting...
+2022-07-01 13:58:32.869 [main] INFO  21724 com.zaxxer.hikari.HikariDataSource:123 - HikariPool-1 - Start completed.
+2022-07-01 13:58:32.928 [main] INFO  21724 o.h.jpa.internal.util.LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-01 13:58:33.018 [main] INFO  21724 org.hibernate.Version:44 - HHH000412: Hibernate ORM core version 5.6.8.Final
+2022-07-01 13:58:33.255 [main] INFO  21724 o.h.annotations.common.Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-01 13:58:33.418 [main] INFO  21724 org.hibernate.dialect.Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2016Dialect
+2022-07-01 13:58:33.651 [main] INFO  21724 o.h.e.t.j.p.i.JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-01 13:58:33.663 [main] INFO  21724 o.s.o.j.LocalContainerEntityManagerFactoryBean:437 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-01 13:58:34.067 [main] INFO  21724 o.s.b.w.e.tomcat.TomcatWebServer:220 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-01 13:58:34.074 [main] INFO  21724 com.kuso.JwtWebApplication:61 - Started JwtWebApplication in 3.91 seconds (JVM running for 4.882)
+2022-07-01 13:59:41.431 [RMI TCP Connection(3)-127.0.0.1] INFO  21724 o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin:159 - Application shutdown requested.
+2022-07-01 13:59:41.631 [RMI TCP Connection(3)-127.0.0.1] INFO  21724 o.s.o.j.LocalContainerEntityManagerFactoryBean:651 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-01 13:59:41.634 [RMI TCP Connection(3)-127.0.0.1] INFO  21724 com.zaxxer.hikari.HikariDataSource:350 - HikariPool-1 - Shutdown initiated...
+2022-07-01 13:59:41.638 [RMI TCP Connection(3)-127.0.0.1] INFO  21724 com.zaxxer.hikari.HikariDataSource:352 - HikariPool-1 - Shutdown completed.
+2022-07-01 13:59:53.667 [main] INFO  19292 com.kuso.JwtWebApplication:55 - Starting JwtWebApplication using Java 1.8.0_202 on KUSOYALO with PID 19292 (C:\eclipseWorkspace\JWTWeb\bin\main started by kusoy in C:\eclipseWorkspace\JWTWeb)
+2022-07-01 13:59:53.673 [main] INFO  19292 com.kuso.JwtWebApplication:640 - No active profile set, falling back to 1 default profile: "default"
+2022-07-01 13:59:54.228 [main] INFO  19292 o.s.d.r.c.RepositoryConfigurationDelegate:132 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-01 13:59:54.240 [main] INFO  19292 o.s.d.r.c.RepositoryConfigurationDelegate:201 - Finished Spring Data repository scanning in 4 ms. Found 0 JPA repository interfaces.
+2022-07-01 13:59:54.705 [main] INFO  19292 o.s.b.w.e.tomcat.TomcatWebServer:108 - Tomcat initialized with port(s): 8088 (http)
+2022-07-01 13:59:54.713 [main] INFO  19292 o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2022-07-01 13:59:54.713 [main] INFO  19292 o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-07-01 13:59:54.815 [main] INFO  19292 o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2022-07-01 13:59:54.816 [main] INFO  19292 o.s.b.w.s.c.ServletWebServerApplicationContext:290 - Root WebApplicationContext: initialization completed in 1087 ms
+2022-07-01 13:59:55.006 [main] INFO  19292 com.zaxxer.hikari.HikariDataSource:110 - HikariPool-1 - Starting...
+2022-07-01 13:59:55.467 [main] INFO  19292 com.zaxxer.hikari.HikariDataSource:123 - HikariPool-1 - Start completed.
+2022-07-01 13:59:55.508 [main] INFO  19292 o.h.jpa.internal.util.LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-01 13:59:55.557 [main] INFO  19292 org.hibernate.Version:44 - HHH000412: Hibernate ORM core version 5.6.8.Final
+2022-07-01 13:59:55.752 [main] INFO  19292 o.h.annotations.common.Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-01 13:59:55.876 [main] INFO  19292 org.hibernate.dialect.Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2016Dialect
+2022-07-01 13:59:56.082 [main] INFO  19292 o.h.e.t.j.p.i.JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-01 13:59:56.092 [main] INFO  19292 o.s.o.j.LocalContainerEntityManagerFactoryBean:437 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-01 13:59:56.449 [main] INFO  19292 o.s.b.w.e.tomcat.TomcatWebServer:220 - Tomcat started on port(s): 8088 (http) with context path ''
+2022-07-01 13:59:56.458 [main] INFO  19292 com.kuso.JwtWebApplication:61 - Started JwtWebApplication in 3.203 seconds (JVM running for 4.08)
+2022-07-01 14:04:59.417 [http-nio-8088-exec-2] INFO  19292 o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-01 14:04:59.418 [http-nio-8088-exec-2] INFO  19292 o.s.web.servlet.DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2022-07-01 14:04:59.420 [http-nio-8088-exec-2] INFO  19292 o.s.web.servlet.DispatcherServlet:547 - Completed initialization in 2 ms
+2022-07-01 14:07:09.346 [main] INFO  11440 com.kuso.JwtWebApplication:55 - Starting JwtWebApplication using Java 1.8.0_202 on KUSOYALO with PID 11440 (C:\eclipseWorkspace\JWTWeb\bin\main started by kusoy in C:\eclipseWorkspace\JWTWeb)
+2022-07-01 14:07:09.353 [main] INFO  11440 com.kuso.JwtWebApplication:640 - No active profile set, falling back to 1 default profile: "default"
+2022-07-01 14:07:09.934 [main] INFO  11440 o.s.d.r.c.RepositoryConfigurationDelegate:132 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-01 14:07:09.946 [main] INFO  11440 o.s.d.r.c.RepositoryConfigurationDelegate:201 - Finished Spring Data repository scanning in 4 ms. Found 0 JPA repository interfaces.
+2022-07-01 14:07:10.447 [main] INFO  11440 o.s.b.w.e.tomcat.TomcatWebServer:108 - Tomcat initialized with port(s): 8088 (http)
+2022-07-01 14:07:10.457 [main] INFO  11440 o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2022-07-01 14:07:10.457 [main] INFO  11440 o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-07-01 14:07:10.561 [main] INFO  11440 o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2022-07-01 14:07:10.562 [main] INFO  11440 o.s.b.w.s.c.ServletWebServerApplicationContext:290 - Root WebApplicationContext: initialization completed in 1143 ms
+2022-07-01 14:07:10.758 [main] INFO  11440 com.zaxxer.hikari.HikariDataSource:110 - HikariPool-1 - Starting...
+2022-07-01 14:07:11.298 [main] INFO  11440 com.zaxxer.hikari.HikariDataSource:123 - HikariPool-1 - Start completed.
+2022-07-01 14:07:11.344 [main] INFO  11440 o.h.jpa.internal.util.LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-01 14:07:11.390 [main] INFO  11440 org.hibernate.Version:44 - HHH000412: Hibernate ORM core version 5.6.8.Final
+2022-07-01 14:07:11.577 [main] INFO  11440 o.h.annotations.common.Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-01 14:07:11.693 [main] INFO  11440 org.hibernate.dialect.Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2016Dialect
+2022-07-01 14:07:11.908 [main] INFO  11440 o.h.e.t.j.p.i.JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-01 14:07:11.922 [main] INFO  11440 o.s.o.j.LocalContainerEntityManagerFactoryBean:437 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-01 14:07:12.342 [main] INFO  11440 o.s.b.w.e.tomcat.TomcatWebServer:220 - Tomcat started on port(s): 8088 (http) with context path ''
+2022-07-01 14:07:12.353 [main] INFO  11440 com.kuso.JwtWebApplication:61 - Started JwtWebApplication in 3.473 seconds (JVM running for 4.422)
+2022-07-01 14:07:32.432 [http-nio-8088-exec-2] INFO  11440 o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-01 14:07:32.433 [http-nio-8088-exec-2] INFO  11440 o.s.web.servlet.DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2022-07-01 14:07:32.434 [http-nio-8088-exec-2] INFO  11440 o.s.web.servlet.DispatcherServlet:547 - Completed initialization in 1 ms
+2022-07-01 14:08:37.120 [main] INFO  9624 com.kuso.JwtWebApplication:55 - Starting JwtWebApplication using Java 1.8.0_202 on KUSOYALO with PID 9624 (C:\eclipseWorkspace\JWTWeb\bin\main started by kusoy in C:\eclipseWorkspace\JWTWeb)
+2022-07-01 14:08:37.127 [main] INFO  9624 com.kuso.JwtWebApplication:640 - No active profile set, falling back to 1 default profile: "default"
+2022-07-01 14:08:37.723 [main] INFO  9624 o.s.d.r.c.RepositoryConfigurationDelegate:132 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-01 14:08:37.735 [main] INFO  9624 o.s.d.r.c.RepositoryConfigurationDelegate:201 - Finished Spring Data repository scanning in 4 ms. Found 0 JPA repository interfaces.
+2022-07-01 14:08:38.226 [main] INFO  9624 o.s.b.w.e.tomcat.TomcatWebServer:108 - Tomcat initialized with port(s): 8088 (http)
+2022-07-01 14:08:38.235 [main] INFO  9624 o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2022-07-01 14:08:38.236 [main] INFO  9624 o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-07-01 14:08:38.404 [main] INFO  9624 o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2022-07-01 14:08:38.405 [main] INFO  9624 o.s.b.w.s.c.ServletWebServerApplicationContext:290 - Root WebApplicationContext: initialization completed in 1220 ms
+2022-07-01 14:08:38.595 [main] INFO  9624 com.zaxxer.hikari.HikariDataSource:110 - HikariPool-1 - Starting...
+2022-07-01 14:08:39.075 [main] INFO  9624 com.zaxxer.hikari.HikariDataSource:123 - HikariPool-1 - Start completed.
+2022-07-01 14:08:39.118 [main] INFO  9624 o.h.jpa.internal.util.LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-01 14:08:39.164 [main] INFO  9624 org.hibernate.Version:44 - HHH000412: Hibernate ORM core version 5.6.8.Final
+2022-07-01 14:08:39.365 [main] INFO  9624 o.h.annotations.common.Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-01 14:08:39.489 [main] INFO  9624 org.hibernate.dialect.Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2016Dialect
+2022-07-01 14:08:39.691 [main] INFO  9624 o.h.e.t.j.p.i.JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-01 14:08:39.701 [main] INFO  9624 o.s.o.j.LocalContainerEntityManagerFactoryBean:437 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-01 14:08:40.096 [main] INFO  9624 o.s.b.w.e.tomcat.TomcatWebServer:220 - Tomcat started on port(s): 8088 (http) with context path ''
+2022-07-01 14:08:40.105 [main] INFO  9624 com.kuso.JwtWebApplication:61 - Started JwtWebApplication in 3.461 seconds (JVM running for 4.429)
+2022-07-01 14:08:46.401 [http-nio-8088-exec-2] INFO  9624 o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-01 14:08:46.402 [http-nio-8088-exec-2] INFO  9624 o.s.web.servlet.DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2022-07-01 14:08:46.404 [http-nio-8088-exec-2] INFO  9624 o.s.web.servlet.DispatcherServlet:547 - Completed initialization in 2 ms
+2022-07-01 14:09:40.477 [main] INFO  11064 com.kuso.JwtWebApplication:55 - Starting JwtWebApplication using Java 1.8.0_202 on KUSOYALO with PID 11064 (C:\eclipseWorkspace\JWTWeb\bin\main started by kusoy in C:\eclipseWorkspace\JWTWeb)
+2022-07-01 14:09:40.484 [main] INFO  11064 com.kuso.JwtWebApplication:640 - No active profile set, falling back to 1 default profile: "default"
+2022-07-01 14:09:41.097 [main] INFO  11064 o.s.d.r.c.RepositoryConfigurationDelegate:132 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-01 14:09:41.113 [main] INFO  11064 o.s.d.r.c.RepositoryConfigurationDelegate:201 - Finished Spring Data repository scanning in 4 ms. Found 0 JPA repository interfaces.
+2022-07-01 14:09:41.584 [main] INFO  11064 o.s.b.w.e.tomcat.TomcatWebServer:108 - Tomcat initialized with port(s): 8088 (http)
+2022-07-01 14:09:41.593 [main] INFO  11064 o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2022-07-01 14:09:41.594 [main] INFO  11064 o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-07-01 14:09:41.757 [main] INFO  11064 o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2022-07-01 14:09:41.758 [main] INFO  11064 o.s.b.w.s.c.ServletWebServerApplicationContext:290 - Root WebApplicationContext: initialization completed in 1219 ms
+2022-07-01 14:09:41.937 [main] INFO  11064 com.zaxxer.hikari.HikariDataSource:110 - HikariPool-1 - Starting...
+2022-07-01 14:09:42.398 [main] INFO  11064 com.zaxxer.hikari.HikariDataSource:123 - HikariPool-1 - Start completed.
+2022-07-01 14:09:42.444 [main] INFO  11064 o.h.jpa.internal.util.LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-01 14:09:42.491 [main] INFO  11064 org.hibernate.Version:44 - HHH000412: Hibernate ORM core version 5.6.8.Final
+2022-07-01 14:09:42.679 [main] INFO  11064 o.h.annotations.common.Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-01 14:09:42.800 [main] INFO  11064 org.hibernate.dialect.Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2016Dialect
+2022-07-01 14:09:43.002 [main] INFO  11064 o.h.e.t.j.p.i.JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-01 14:09:43.013 [main] INFO  11064 o.s.o.j.LocalContainerEntityManagerFactoryBean:437 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-01 14:09:43.393 [main] INFO  11064 o.s.b.w.e.tomcat.TomcatWebServer:220 - Tomcat started on port(s): 8088 (http) with context path ''
+2022-07-01 14:09:43.401 [main] INFO  11064 com.kuso.JwtWebApplication:61 - Started JwtWebApplication in 3.411 seconds (JVM running for 4.353)
+2022-07-01 14:09:49.464 [http-nio-8088-exec-1] INFO  11064 o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-01 14:09:49.464 [http-nio-8088-exec-1] INFO  11064 o.s.web.servlet.DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2022-07-01 14:09:49.466 [http-nio-8088-exec-1] INFO  11064 o.s.web.servlet.DispatcherServlet:547 - Completed initialization in 2 ms
+2022-07-01 14:11:35.967 [main] INFO  17116 com.kuso.JwtWebApplication:55 - Starting JwtWebApplication using Java 1.8.0_202 on KUSOYALO with PID 17116 (C:\eclipseWorkspace\JWTWeb\bin\main started by kusoy in C:\eclipseWorkspace\JWTWeb)
+2022-07-01 14:11:35.972 [main] INFO  17116 com.kuso.JwtWebApplication:640 - No active profile set, falling back to 1 default profile: "default"
+2022-07-01 14:11:36.555 [main] INFO  17116 o.s.d.r.c.RepositoryConfigurationDelegate:132 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-01 14:11:36.568 [main] INFO  17116 o.s.d.r.c.RepositoryConfigurationDelegate:201 - Finished Spring Data repository scanning in 4 ms. Found 0 JPA repository interfaces.
+2022-07-01 14:11:37.050 [main] INFO  17116 o.s.b.w.e.tomcat.TomcatWebServer:108 - Tomcat initialized with port(s): 8088 (http)
+2022-07-01 14:11:37.060 [main] INFO  17116 o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2022-07-01 14:11:37.060 [main] INFO  17116 o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-07-01 14:11:37.161 [main] INFO  17116 o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2022-07-01 14:11:37.161 [main] INFO  17116 o.s.b.w.s.c.ServletWebServerApplicationContext:290 - Root WebApplicationContext: initialization completed in 1142 ms
+2022-07-01 14:11:37.359 [main] INFO  17116 com.zaxxer.hikari.HikariDataSource:110 - HikariPool-1 - Starting...
+2022-07-01 14:11:37.854 [main] INFO  17116 com.zaxxer.hikari.HikariDataSource:123 - HikariPool-1 - Start completed.
+2022-07-01 14:11:37.896 [main] INFO  17116 o.h.jpa.internal.util.LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-01 14:11:37.943 [main] INFO  17116 org.hibernate.Version:44 - HHH000412: Hibernate ORM core version 5.6.8.Final
+2022-07-01 14:11:38.124 [main] INFO  17116 o.h.annotations.common.Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-01 14:11:38.253 [main] INFO  17116 org.hibernate.dialect.Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2016Dialect
+2022-07-01 14:11:38.464 [main] INFO  17116 o.h.e.t.j.p.i.JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-01 14:11:38.479 [main] INFO  17116 o.s.o.j.LocalContainerEntityManagerFactoryBean:437 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-01 14:11:38.884 [main] INFO  17116 o.s.b.w.e.tomcat.TomcatWebServer:220 - Tomcat started on port(s): 8088 (http) with context path ''
+2022-07-01 14:11:38.896 [main] INFO  17116 com.kuso.JwtWebApplication:61 - Started JwtWebApplication in 3.396 seconds (JVM running for 4.292)
+2022-07-01 14:11:45.757 [http-nio-8088-exec-2] INFO  17116 o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-01 14:11:45.758 [http-nio-8088-exec-2] INFO  17116 o.s.web.servlet.DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2022-07-01 14:11:45.759 [http-nio-8088-exec-2] INFO  17116 o.s.web.servlet.DispatcherServlet:547 - Completed initialization in 1 ms
+2022-07-01 14:20:59.969 [main] INFO  5072 com.kuso.JwtWebApplication:55 - Starting JwtWebApplication using Java 1.8.0_202 on KUSOYALO with PID 5072 (C:\eclipseWorkspace\JWTWeb\bin\main started by kusoy in C:\eclipseWorkspace\JWTWeb)
+2022-07-01 14:20:59.975 [main] INFO  5072 com.kuso.JwtWebApplication:640 - No active profile set, falling back to 1 default profile: "default"
+2022-07-01 14:21:00.558 [main] INFO  5072 o.s.d.r.c.RepositoryConfigurationDelegate:132 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-01 14:21:00.572 [main] INFO  5072 o.s.d.r.c.RepositoryConfigurationDelegate:201 - Finished Spring Data repository scanning in 4 ms. Found 0 JPA repository interfaces.
+2022-07-01 14:21:01.058 [main] INFO  5072 o.s.b.w.e.tomcat.TomcatWebServer:108 - Tomcat initialized with port(s): 8088 (http)
+2022-07-01 14:21:01.073 [main] INFO  5072 o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2022-07-01 14:21:01.073 [main] INFO  5072 o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-07-01 14:21:01.180 [main] INFO  5072 o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2022-07-01 14:21:01.180 [main] INFO  5072 o.s.b.w.s.c.ServletWebServerApplicationContext:290 - Root WebApplicationContext: initialization completed in 1143 ms
+2022-07-01 14:21:01.392 [main] INFO  5072 com.zaxxer.hikari.HikariDataSource:110 - HikariPool-1 - Starting...
+2022-07-01 14:21:01.863 [main] INFO  5072 com.zaxxer.hikari.HikariDataSource:123 - HikariPool-1 - Start completed.
+2022-07-01 14:21:01.911 [main] INFO  5072 o.h.jpa.internal.util.LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-01 14:21:01.959 [main] INFO  5072 org.hibernate.Version:44 - HHH000412: Hibernate ORM core version 5.6.8.Final
+2022-07-01 14:21:02.158 [main] INFO  5072 o.h.annotations.common.Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-01 14:21:02.287 [main] INFO  5072 org.hibernate.dialect.Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2016Dialect
+2022-07-01 14:21:02.483 [main] INFO  5072 o.h.e.t.j.p.i.JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-01 14:21:02.503 [main] INFO  5072 o.s.o.j.LocalContainerEntityManagerFactoryBean:437 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-01 14:21:02.908 [main] INFO  5072 o.s.b.w.e.tomcat.TomcatWebServer:220 - Tomcat started on port(s): 8088 (http) with context path ''
+2022-07-01 14:21:02.917 [main] INFO  5072 com.kuso.JwtWebApplication:61 - Started JwtWebApplication in 3.39 seconds (JVM running for 4.282)
+2022-07-01 14:21:14.360 [http-nio-8088-exec-1] INFO  5072 o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-01 14:21:14.360 [http-nio-8088-exec-1] INFO  5072 o.s.web.servlet.DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2022-07-01 14:21:14.362 [http-nio-8088-exec-1] INFO  5072 o.s.web.servlet.DispatcherServlet:547 - Completed initialization in 2 ms
+2022-07-01 14:38:09.241 [main] INFO  17088 com.kuso.JwtWebApplication:55 - Starting JwtWebApplication using Java 1.8.0_202 on KUSOYALO with PID 17088 (C:\eclipseWorkspace\JWTWeb\bin\main started by kusoy in C:\eclipseWorkspace\JWTWeb)
+2022-07-01 14:38:09.247 [main] INFO  17088 com.kuso.JwtWebApplication:640 - No active profile set, falling back to 1 default profile: "default"
+2022-07-01 14:38:09.803 [main] INFO  17088 o.s.d.r.c.RepositoryConfigurationDelegate:132 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-01 14:38:09.847 [main] INFO  17088 o.s.d.r.c.RepositoryConfigurationDelegate:201 - Finished Spring Data repository scanning in 34 ms. Found 1 JPA repository interfaces.
+2022-07-01 14:38:10.343 [main] INFO  17088 o.s.b.w.e.tomcat.TomcatWebServer:108 - Tomcat initialized with port(s): 8088 (http)
+2022-07-01 14:38:10.352 [main] INFO  17088 o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2022-07-01 14:38:10.352 [main] INFO  17088 o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-07-01 14:38:10.477 [main] INFO  17088 o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2022-07-01 14:38:10.478 [main] INFO  17088 o.s.b.w.s.c.ServletWebServerApplicationContext:290 - Root WebApplicationContext: initialization completed in 1182 ms
+2022-07-01 14:38:10.653 [main] INFO  17088 com.zaxxer.hikari.HikariDataSource:110 - HikariPool-1 - Starting...
+2022-07-01 14:38:11.213 [main] INFO  17088 com.zaxxer.hikari.HikariDataSource:123 - HikariPool-1 - Start completed.
+2022-07-01 14:38:11.267 [main] INFO  17088 o.h.jpa.internal.util.LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-01 14:38:11.323 [main] INFO  17088 org.hibernate.Version:44 - HHH000412: Hibernate ORM core version 5.6.8.Final
+2022-07-01 14:38:11.517 [main] INFO  17088 o.h.annotations.common.Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-01 14:38:11.641 [main] INFO  17088 org.hibernate.dialect.Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2016Dialect
+2022-07-01 14:38:12.155 [main] INFO  17088 o.h.e.t.j.p.i.JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-01 14:38:12.175 [main] INFO  17088 o.s.o.j.LocalContainerEntityManagerFactoryBean:437 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-01 14:38:12.768 [main] INFO  17088 o.s.b.w.e.tomcat.TomcatWebServer:220 - Tomcat started on port(s): 8088 (http) with context path ''
+2022-07-01 14:38:12.775 [main] INFO  17088 com.kuso.JwtWebApplication:61 - Started JwtWebApplication in 3.983 seconds (JVM running for 4.897)
+2022-07-01 14:38:54.351 [http-nio-8088-exec-3] INFO  17088 o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-01 14:38:54.352 [http-nio-8088-exec-3] INFO  17088 o.s.web.servlet.DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2022-07-01 14:38:54.353 [http-nio-8088-exec-3] INFO  17088 o.s.web.servlet.DispatcherServlet:547 - Completed initialization in 1 ms
+2022-07-01 14:48:26.124 [main] INFO  19904 com.kuso.JwtWebApplication:55 - Starting JwtWebApplication using Java 1.8.0_202 on KUSOYALO with PID 19904 (C:\eclipseWorkspace\JWTWeb\bin\main started by kusoy in C:\eclipseWorkspace\JWTWeb)
+2022-07-01 14:48:26.129 [main] INFO  19904 com.kuso.JwtWebApplication:640 - No active profile set, falling back to 1 default profile: "default"
+2022-07-01 14:48:26.731 [main] INFO  19904 o.s.d.r.c.RepositoryConfigurationDelegate:132 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-01 14:48:26.777 [main] INFO  19904 o.s.d.r.c.RepositoryConfigurationDelegate:201 - Finished Spring Data repository scanning in 35 ms. Found 1 JPA repository interfaces.
+2022-07-01 14:48:27.289 [main] INFO  19904 o.s.b.w.e.tomcat.TomcatWebServer:108 - Tomcat initialized with port(s): 8088 (http)
+2022-07-01 14:48:27.300 [main] INFO  19904 o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2022-07-01 14:48:27.302 [main] INFO  19904 o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-07-01 14:48:27.435 [main] INFO  19904 o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2022-07-01 14:48:27.436 [main] INFO  19904 o.s.b.w.s.c.ServletWebServerApplicationContext:290 - Root WebApplicationContext: initialization completed in 1257 ms
+2022-07-01 14:48:27.615 [main] INFO  19904 com.zaxxer.hikari.HikariDataSource:110 - HikariPool-1 - Starting...
+2022-07-01 14:48:28.110 [main] INFO  19904 com.zaxxer.hikari.HikariDataSource:123 - HikariPool-1 - Start completed.
+2022-07-01 14:48:28.160 [main] INFO  19904 o.h.jpa.internal.util.LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-01 14:48:28.213 [main] INFO  19904 org.hibernate.Version:44 - HHH000412: Hibernate ORM core version 5.6.8.Final
+2022-07-01 14:48:28.430 [main] INFO  19904 o.h.annotations.common.Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-01 14:48:28.564 [main] INFO  19904 org.hibernate.dialect.Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2016Dialect
+2022-07-01 14:48:29.130 [main] INFO  19904 o.h.e.t.j.p.i.JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-01 14:48:29.143 [main] INFO  19904 o.s.o.j.LocalContainerEntityManagerFactoryBean:437 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-01 14:48:29.800 [main] INFO  19904 o.s.b.w.e.tomcat.TomcatWebServer:220 - Tomcat started on port(s): 8088 (http) with context path ''
+2022-07-01 14:48:29.810 [main] INFO  19904 com.kuso.JwtWebApplication:61 - Started JwtWebApplication in 4.157 seconds (JVM running for 5.053)
+2022-07-01 14:48:34.563 [http-nio-8088-exec-2] INFO  19904 o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-01 14:48:34.563 [http-nio-8088-exec-2] INFO  19904 o.s.web.servlet.DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2022-07-01 14:48:34.564 [http-nio-8088-exec-2] INFO  19904 o.s.web.servlet.DispatcherServlet:547 - Completed initialization in 0 ms
+2022-07-01 14:48:39.514 [http-nio-8088-exec-2] INFO  19904 com.kuso.action.TokenAction:40 - createToken
+2022-07-01 14:48:40.431 [http-nio-8088-exec-2] INFO  19904 com.kuso.action.TokenAction:41 - claimMap={param1=kuku, param2=yaya}
+2022-07-01 14:48:49.181 [http-nio-8088-exec-2] INFO  19904 com.kuso.action.TokenAction:68 - token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXJhbTEiOiJrdWt1IiwicGFyYW0yIjoieWF5YSJ9.how-K0oJaPBwBDV7PlnUSYnxgZ1XFcScwfILZAkRdUM
+2022-07-01 14:48:49.182 [http-nio-8088-exec-2] INFO  19904 com.kuso.action.TokenAction:73 - uuid=2c514015-67ff-4381-8edc-6481f5c31be5
+2022-07-01 15:02:31.334 [main] INFO  15524 com.kuso.JwtWebApplication:55 - Starting JwtWebApplication using Java 1.8.0_202 on KUSOYALO with PID 15524 (C:\eclipseWorkspace\JWTWeb\bin\main started by kusoy in C:\eclipseWorkspace\JWTWeb)
+2022-07-01 15:02:31.339 [main] INFO  15524 com.kuso.JwtWebApplication:640 - No active profile set, falling back to 1 default profile: "default"
+2022-07-01 15:02:31.756 [main] INFO  15524 o.s.d.r.c.RepositoryConfigurationDelegate:132 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-01 15:02:31.793 [main] INFO  15524 o.s.d.r.c.RepositoryConfigurationDelegate:201 - Finished Spring Data repository scanning in 28 ms. Found 1 JPA repository interfaces.
+2022-07-01 15:02:32.222 [main] INFO  15524 o.s.b.w.e.tomcat.TomcatWebServer:108 - Tomcat initialized with port(s): 8088 (http)
+2022-07-01 15:02:32.230 [main] INFO  15524 o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2022-07-01 15:02:32.231 [main] INFO  15524 o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-07-01 15:02:32.330 [main] INFO  15524 o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2022-07-01 15:02:32.331 [main] INFO  15524 o.s.b.w.s.c.ServletWebServerApplicationContext:290 - Root WebApplicationContext: initialization completed in 960 ms
+2022-07-01 15:02:32.478 [main] INFO  15524 com.zaxxer.hikari.HikariDataSource:110 - HikariPool-1 - Starting...
+2022-07-01 15:02:32.982 [main] INFO  15524 com.zaxxer.hikari.HikariDataSource:123 - HikariPool-1 - Start completed.
+2022-07-01 15:02:33.023 [main] INFO  15524 o.h.jpa.internal.util.LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-01 15:02:33.067 [main] INFO  15524 org.hibernate.Version:44 - HHH000412: Hibernate ORM core version 5.6.8.Final
+2022-07-01 15:02:33.213 [main] INFO  15524 o.h.annotations.common.Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-01 15:02:33.324 [main] INFO  15524 org.hibernate.dialect.Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2016Dialect
+2022-07-01 15:02:33.780 [main] INFO  15524 o.h.e.t.j.p.i.JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-01 15:02:33.790 [main] INFO  15524 o.s.o.j.LocalContainerEntityManagerFactoryBean:437 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-01 15:02:34.262 [main] INFO  15524 o.s.b.w.e.tomcat.TomcatWebServer:220 - Tomcat started on port(s): 8088 (http) with context path ''
+2022-07-01 15:02:34.268 [main] INFO  15524 com.kuso.JwtWebApplication:61 - Started JwtWebApplication in 3.259 seconds (JVM running for 3.895)
+2022-07-01 15:04:23.720 [http-nio-8088-exec-1] INFO  15524 o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-01 15:04:23.721 [http-nio-8088-exec-1] INFO  15524 o.s.web.servlet.DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2022-07-01 15:04:23.725 [http-nio-8088-exec-1] INFO  15524 o.s.web.servlet.DispatcherServlet:547 - Completed initialization in 3 ms
+2022-07-01 15:04:23.885 [http-nio-8088-exec-1] INFO  15524 com.kuso.action.TokenAction:40 - createToken
+2022-07-01 15:04:23.885 [http-nio-8088-exec-1] INFO  15524 com.kuso.action.TokenAction:41 - claimMap={param1=kuku, param2=yaya}
+2022-07-01 15:04:23.921 [http-nio-8088-exec-1] INFO  15524 com.kuso.action.TokenAction:68 - token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXJhbTEiOiJrdWt1IiwicGFyYW0yIjoieWF5YSJ9.tbyy7QQoprLI11CuUwpGdrgiISTNhghGvp5r46mXMqI
+2022-07-01 15:04:23.921 [http-nio-8088-exec-1] INFO  15524 com.kuso.action.TokenAction:73 - uuid=583d721b-7f44-41bc-acf9-0be05fa12aea
+2022-07-01 15:05:25.045 [http-nio-8088-exec-5] INFO  15524 com.kuso.action.TokenAction:97 - verifyToken
+2022-07-01 15:05:25.888 [http-nio-8088-exec-5] INFO  15524 com.kuso.action.TokenAction:98 - requestParamMap={tokenUUID=583d721b-7f44-41bc-acf9-0be05fa12aea, token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXJhbTEiOiJrdWt1IiwicGFyYW0yIjoieWF5YSJ9.tbyy7QQoprLI11CuUwpGdrgiISTNhghGvp5r46mXMqI}
+2022-07-01 15:06:17.560 [http-nio-8088-exec-5] INFO  15524 com.kuso.action.TokenAction:127 - key=param1，value= kuku
+2022-07-01 15:06:21.501 [http-nio-8088-exec-5] INFO  15524 com.kuso.action.TokenAction:127 - key=param2，value= yaya
+2022-07-01 15:06:52.668 [http-nio-8088-exec-4] INFO  15524 com.kuso.action.TokenAction:97 - verifyToken
+2022-07-01 15:06:52.669 [http-nio-8088-exec-4] INFO  15524 com.kuso.action.TokenAction:98 - requestParamMap={tokenUUID=583d721b-7f44-41bc-acf9-0be05fa12aea, token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXJhbTEiOiJrdWt1IiwicGFyYW0yIjoieWF5YSJ9.tbyy7QQoprLI11CuUwpGdrgiISTNhghGvp5r46mXMqId}
+2022-07-01 15:07:07.566 [http-nio-8088-exec-4] ERROR 15524 com.kuso.action.TokenAction:134 - JWT signature does not match locally computed signature. JWT validity cannot be asserted and should not be trusted.
+2022-07-01 15:07:45.683 [http-nio-8088-exec-2] INFO  15524 com.kuso.action.TokenAction:97 - verifyToken
+2022-07-01 15:07:45.683 [http-nio-8088-exec-2] INFO  15524 com.kuso.action.TokenAction:98 - requestParamMap={tokenUUID=583d721b-7f44-41bc-acf9-0be05fa12aea, token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eysJwYXJhbTEiOiJrdWt1IiwicGFyYW0yIjoieWF5YSJ9.tbyy7QQoprLI11CuUwpGdrgiISTNhghGvp5r46mXMqI}
+2022-07-01 15:07:59.021 [http-nio-8088-exec-2] ERROR 15524 com.kuso.action.TokenAction:134 - JWT signature does not match locally computed signature. JWT validity cannot be asserted and should not be trusted.
+2022-07-01 15:08:09.386 [http-nio-8088-exec-8] INFO  15524 com.kuso.action.TokenAction:97 - verifyToken
+2022-07-01 15:08:09.387 [http-nio-8088-exec-8] INFO  15524 com.kuso.action.TokenAction:98 - requestParamMap={tokenUUID=583d721b-7f44-41bc-acf9-0be05fa12aea, token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiiJ9.eyJwYXJhbTEiOiJrdWt1IiwicGFyYW0yIjoieWF5YSJ9.tbyy7QQoprLI11CuUwpGdrgiISTNhghGvp5r46mXMqI}
+2022-07-01 15:08:14.572 [http-nio-8088-exec-8] ERROR 15524 com.kuso.action.TokenAction:134 - com.google.gson.stream.MalformedJsonException: Unterminated string at line 1 column 28 path $.alg
+2022-07-01 15:08:25.973 [http-nio-8088-exec-7] INFO  15524 com.kuso.action.TokenAction:97 - verifyToken
+2022-07-01 15:08:25.974 [http-nio-8088-exec-7] INFO  15524 com.kuso.action.TokenAction:98 - requestParamMap={tokenUUID=583d721b-7f44-41bc-acf9-0be05fa12aea, token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXJhbTEiOiJrdWt1IiwicGFyYW0yIjoieWF5YSJ9.tbyy7QQoprLI11CuUwpGdrgiISTNhghGvp5r46mXMqI}
+2022-07-01 15:08:31.336 [http-nio-8088-exec-7] INFO  15524 com.kuso.action.TokenAction:127 - key=param1，value= kuku
+2022-07-01 15:08:32.041 [http-nio-8088-exec-7] INFO  15524 com.kuso.action.TokenAction:127 - key=param2，value= yaya
+2022-07-01 16:17:30.329 [main] INFO  960 com.kuso.JwtWebApplication:55 - Starting JwtWebApplication using Java 1.8.0_202 on KUSOYALO with PID 960 (C:\eclipseWorkspace\JWTWeb\bin\main started by kusoy in C:\eclipseWorkspace\JWTWeb)
+2022-07-01 16:17:30.335 [main] INFO  960 com.kuso.JwtWebApplication:640 - No active profile set, falling back to 1 default profile: "default"
+2022-07-01 16:17:30.911 [main] INFO  960 o.s.d.r.c.RepositoryConfigurationDelegate:132 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-01 16:17:30.954 [main] INFO  960 o.s.d.r.c.RepositoryConfigurationDelegate:201 - Finished Spring Data repository scanning in 32 ms. Found 1 JPA repository interfaces.
+2022-07-01 16:17:31.446 [main] INFO  960 o.s.b.w.e.tomcat.TomcatWebServer:108 - Tomcat initialized with port(s): 8088 (http)
+2022-07-01 16:17:31.453 [main] INFO  960 o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2022-07-01 16:17:31.454 [main] INFO  960 o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-07-01 16:17:31.622 [main] INFO  960 o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2022-07-01 16:17:31.623 [main] INFO  960 o.s.b.w.s.c.ServletWebServerApplicationContext:290 - Root WebApplicationContext: initialization completed in 1231 ms
+2022-07-01 16:17:31.792 [main] INFO  960 com.zaxxer.hikari.HikariDataSource:110 - HikariPool-1 - Starting...
+2022-07-01 16:17:32.279 [main] INFO  960 com.zaxxer.hikari.HikariDataSource:123 - HikariPool-1 - Start completed.
+2022-07-01 16:17:32.325 [main] INFO  960 o.h.jpa.internal.util.LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-01 16:17:32.376 [main] INFO  960 org.hibernate.Version:44 - HHH000412: Hibernate ORM core version 5.6.8.Final
+2022-07-01 16:17:32.564 [main] INFO  960 o.h.annotations.common.Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-01 16:17:32.693 [main] INFO  960 org.hibernate.dialect.Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2016Dialect
+2022-07-01 16:17:33.222 [main] INFO  960 o.h.e.t.j.p.i.JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-01 16:17:33.256 [main] INFO  960 o.s.o.j.LocalContainerEntityManagerFactoryBean:437 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-01 16:17:33.878 [main] INFO  960 o.s.b.w.e.tomcat.TomcatWebServer:220 - Tomcat started on port(s): 8088 (http) with context path ''
+2022-07-01 16:17:33.888 [main] INFO  960 com.kuso.JwtWebApplication:61 - Started JwtWebApplication in 4.009 seconds (JVM running for 4.941)
+2022-07-01 16:19:26.003 [http-nio-8088-exec-2] INFO  960 o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-01 16:19:26.003 [http-nio-8088-exec-2] INFO  960 o.s.web.servlet.DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2022-07-01 16:19:26.005 [http-nio-8088-exec-2] INFO  960 o.s.web.servlet.DispatcherServlet:547 - Completed initialization in 2 ms
+2022-07-01 16:19:26.203 [http-nio-8088-exec-2] INFO  960 com.kuso.action.TokenAction:40 - createToken
+2022-07-01 16:19:26.204 [http-nio-8088-exec-2] INFO  960 com.kuso.action.TokenAction:41 - claimMap={param1=kusoyalo, param2=shitboy}
+2022-07-01 16:19:26.234 [http-nio-8088-exec-2] INFO  960 com.kuso.action.TokenAction:68 - token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXJhbTEiOiJrdXNveWFsbyIsInBhcmFtMiI6InNoaXRib3kifQ.ngauJCv1IkwgHXaS5lTi7iNS-Bz9HqbYIOaE8_FUgIU
+2022-07-01 16:19:26.234 [http-nio-8088-exec-2] INFO  960 com.kuso.action.TokenAction:73 - uuid=9c4172ce-9782-43dd-bea2-9755fc3841c7
+2022-07-01 16:31:00.280 [http-nio-8088-exec-3] INFO  960 com.kuso.action.TokenAction:40 - createToken
+2022-07-01 16:31:00.281 [http-nio-8088-exec-3] INFO  960 com.kuso.action.TokenAction:41 - claimMap={param1=kusoyalo, param2=shitboy}
+2022-07-01 16:31:00.284 [http-nio-8088-exec-3] INFO  960 com.kuso.action.TokenAction:68 - token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXJhbTEiOiJrdXNveWFsbyIsInBhcmFtMiI6InNoaXRib3kifQ.-PlOL5jaXMQdsDEcXU7aST1pzd86_lz_vFaeaWinJSk
+2022-07-01 16:31:00.284 [http-nio-8088-exec-3] INFO  960 com.kuso.action.TokenAction:73 - uuid=80a5a9cb-4254-4e39-ab25-90d27d959b34
+2022-07-01 16:32:12.760 [http-nio-8088-exec-4] INFO  960 com.kuso.action.TokenAction:97 - verifyToken
+2022-07-01 16:32:13.168 [http-nio-8088-exec-4] INFO  960 com.kuso.action.TokenAction:98 - requestParamMap={tokenUUID=80a5a9cb-4254-4e39-ab25-90d27d959b34, token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXJhbTEiOiJrdXNveWFsbyIsInBhcmFtMiI6InNoaXRib3kifQ.-PlOL5jaXMQdsDEcXU7aST1pzd86_lz_vFaeaWinJSk}
+2022-07-01 16:32:27.588 [http-nio-8088-exec-4] INFO  960 com.kuso.action.TokenAction:127 - key=param1，value= kusoyalo
+2022-07-01 16:32:33.427 [http-nio-8088-exec-4] INFO  960 com.kuso.action.TokenAction:127 - key=param2，value= shitboy
+2022-07-01 16:46:00.665 [main] INFO  19148 com.kuso.JwtWebApplication:55 - Starting JwtWebApplication using Java 1.8.0_202 on KUSOYALO with PID 19148 (C:\eclipseWorkspace\JWTWeb\bin\main started by kusoy in C:\eclipseWorkspace\JWTWeb)
+2022-07-01 16:46:00.670 [main] INFO  19148 com.kuso.JwtWebApplication:640 - No active profile set, falling back to 1 default profile: "default"
+2022-07-01 16:46:01.331 [main] INFO  19148 o.s.d.r.c.RepositoryConfigurationDelegate:132 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-01 16:46:01.375 [main] INFO  19148 o.s.d.r.c.RepositoryConfigurationDelegate:201 - Finished Spring Data repository scanning in 34 ms. Found 1 JPA repository interfaces.
+2022-07-01 16:46:01.860 [main] INFO  19148 o.s.b.w.e.tomcat.TomcatWebServer:108 - Tomcat initialized with port(s): 8088 (http)
+2022-07-01 16:46:01.868 [main] INFO  19148 o.a.catalina.core.StandardService:173 - Starting service [Tomcat]
+2022-07-01 16:46:01.869 [main] INFO  19148 o.a.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-07-01 16:46:01.996 [main] INFO  19148 o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2022-07-01 16:46:01.996 [main] INFO  19148 o.s.b.w.s.c.ServletWebServerApplicationContext:290 - Root WebApplicationContext: initialization completed in 1268 ms
+2022-07-01 16:46:02.168 [main] INFO  19148 com.zaxxer.hikari.HikariDataSource:110 - HikariPool-1 - Starting...
+2022-07-01 16:46:02.710 [main] INFO  19148 com.zaxxer.hikari.HikariDataSource:123 - HikariPool-1 - Start completed.
+2022-07-01 16:46:02.760 [main] INFO  19148 o.h.jpa.internal.util.LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-01 16:46:02.810 [main] INFO  19148 org.hibernate.Version:44 - HHH000412: Hibernate ORM core version 5.6.8.Final
+2022-07-01 16:46:03.011 [main] INFO  19148 o.h.annotations.common.Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-01 16:46:03.147 [main] INFO  19148 org.hibernate.dialect.Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2016Dialect
+2022-07-01 16:46:03.703 [main] INFO  19148 o.h.e.t.j.p.i.JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-01 16:46:03.725 [main] INFO  19148 o.s.o.j.LocalContainerEntityManagerFactoryBean:437 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-01 16:46:04.342 [main] INFO  19148 o.s.b.w.e.tomcat.TomcatWebServer:220 - Tomcat started on port(s): 8088 (http) with context path ''
+2022-07-01 16:46:04.351 [main] INFO  19148 com.kuso.JwtWebApplication:61 - Started JwtWebApplication in 4.147 seconds (JVM running for 5.094)
+2022-07-01 16:46:11.740 [http-nio-8088-exec-2] INFO  19148 o.a.c.c.C.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-01 16:46:11.740 [http-nio-8088-exec-2] INFO  19148 o.s.web.servlet.DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2022-07-01 16:46:11.741 [http-nio-8088-exec-2] INFO  19148 o.s.web.servlet.DispatcherServlet:547 - Completed initialization in 1 ms
+2022-07-01 16:46:11.773 [http-nio-8088-exec-2] INFO  19148 com.kuso.controller.TokenController:40 - createToken
+2022-07-01 16:46:11.773 [http-nio-8088-exec-2] INFO  19148 com.kuso.controller.TokenController:41 - claimMap={param1=kuku, param2=yaya}
+2022-07-01 16:46:11.966 [http-nio-8088-exec-2] INFO  19148 com.kuso.controller.TokenController:68 - token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXJhbTEiOiJrdWt1IiwicGFyYW0yIjoieWF5YSJ9.pgyfymJkdBIVj5FzqaFG-roM2DwmgJtjphgtHDiuHmE
+2022-07-01 16:46:11.966 [http-nio-8088-exec-2] INFO  19148 com.kuso.controller.TokenController:73 - uuid=a2220733-1f6c-48d3-a9cf-0c7c02c0f0fc
+2022-07-01 16:46:34.641 [http-nio-8088-exec-1] INFO  19148 com.kuso.controller.TokenController:97 - verifyToken
+2022-07-01 16:46:34.642 [http-nio-8088-exec-1] INFO  19148 com.kuso.controller.TokenController:98 - requestParamMap={tokenUUID=a2220733-1f6c-48d3-a9cf-0c7c02c0f0fc, token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXJhbTEiOiJrdWt1IiwicGFyYW0yIjoieWF5YSJ9.pgyfymJkdBIVj5FzqaFG-roM2DwmgJtjphgtHDiuHmE}
+2022-07-01 16:46:34.694 [http-nio-8088-exec-1] INFO  19148 com.kuso.controller.TokenController:127 - key=param1，value= kuku
+2022-07-01 16:46:34.695 [http-nio-8088-exec-1] INFO  19148 com.kuso.controller.TokenController:127 - key=param2，value= yaya
